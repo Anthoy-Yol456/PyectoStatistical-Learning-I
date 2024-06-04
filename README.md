@@ -1,4 +1,4 @@
-# PyectoStatistical-Learning-I
+# ProyectoStatistical-Learning-I
 Proyecto
 Violencia Intrafamiliar
 
